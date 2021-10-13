@@ -1,1 +1,0 @@
-Curso de Udemy sobre JavaScript (Global Mentoring)
