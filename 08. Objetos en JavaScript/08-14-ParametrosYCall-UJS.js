@@ -14,4 +14,7 @@ let persona2 = {
 }
 
 // Se llaman los valores de los argumentos
+console.log(persona1.nombreCompleto('Lic', '2704574'));
+
+// Para la funcion call
 console.log(persona1.nombreCompleto.call(persona2, 'Ing', '5552728'));
